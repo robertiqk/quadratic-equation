@@ -12,5 +12,4 @@ module.exports = function solveEquation(equation) {
 
   return resultArr.sort( (a, b) => a - b );
   
-
 } 
